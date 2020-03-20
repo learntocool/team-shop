@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/team-shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/team-shop-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/team-shop-service/team-shop-service-register/pom.xml" />
+        <option value="$PROJECT_DIR$/team-shop-web/team-shop-web-register/pom.xml" />
       </list>
     </option>
   </component>

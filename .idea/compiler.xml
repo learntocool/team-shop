@@ -6,8 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="team-shop" />
+        <module name="team-shop-service-register" />
+        <module name="team-shop-eureka-server" />
+        <module name="team-shop-common" />
+        <module name="team-shop-web" />
+        <module name="team-shop-service" />
+        <module name="team-shop-web-register" />
+        <module name="team-shop-dependencies" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="teamshopservice" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="team-shop-eureka-server" options="-parameters" />
+      <module name="team-shop-service-register" options="-parameters" />
+      <module name="team-shop-web-register" options="-parameters" />
+    </option>
   </component>
 </project>

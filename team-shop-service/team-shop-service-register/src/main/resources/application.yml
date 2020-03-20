@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: team-shop-service-register
+
+server:
+  port: 8762
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

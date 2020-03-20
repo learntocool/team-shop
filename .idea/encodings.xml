@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/team-shop-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/team-shop-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/team-shop-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/team-shop-service/team-shop-service-register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/team-shop-web/team-shop-web-register" charset="UTF-8" />
+  </component>
+</project>
